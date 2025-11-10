@@ -14,3 +14,6 @@ ggplot(weight_height_data, aes(x = Weight, y = Height)) +
        x = "Weight (kg)",
        y = "Height (cm)") +
   theme_minimal()
+Output
+v
+
